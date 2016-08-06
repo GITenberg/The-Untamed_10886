@@ -1,0 +1,35 @@
+_repo: The-Untamed_10886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Frederick, John
+    - Faust, Frederick Schiller
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: 'Go to top; Chapter I: Pan of the Desert; Chapter II: The Panther; Chapter
+  III: Silent Shoots; Chapter IV: Something Yellow; Chapter V: Four in the Air; Chapter
+  VI: Laughter; Chapter VII: The Mute Messenger; Chapter VIII: Red Writing; Chapter
+  IX: The Phantom Rider; Chapter X: The Strength of Women; Chapter XI: Silent Bluffs;
+  Chapter XII: Partners; Chapter XIII: The Lone Riders Entertain; Chapter XIV: Delilah;
+  Chapter XV: The Cross Roads; Chapter XVI: The Three of Us; Chapter XVII: The Panther''s
+  Paw; Chapter XVIII: Cain; Chapter XIX: Real Men; Chapter XX: One Trail Ends.'
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: The Untamed
+url: http://www.gutenberg.org/ebooks/10886
