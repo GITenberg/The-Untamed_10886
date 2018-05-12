@@ -1,5 +1,8 @@
 _repo: The-Untamed_10886
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brand, Max
@@ -18,6 +21,8 @@ description: 'Go to top; Chapter I: Pan of the Desert; Chapter II: The Panther; 
   Chapter XII: Partners; Chapter XIII: The Lone Riders Entertain; Chapter XIV: Delilah;
   Chapter XV: The Cross Roads; Chapter XVI: The Three of Us; Chapter XVII: The Panther''s
   Paw; Chapter XVIII: Cain; Chapter XIX: Real Men; Chapter XX: One Trail Ends.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10886#The-Untamed
 gutenberg_bookshelf: Western
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
